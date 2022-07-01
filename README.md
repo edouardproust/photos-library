@@ -4,7 +4,7 @@ An application that that allows you to search for free stock photos online, usin
 
 👉 [**Live demo**](http://phpstack-749317-2526873.cloudwaysapps.com/)
 
-![image](https://user-images.githubusercontent.com/45925914/176820388-ac9c1a90-9aaa-415c-9262-4795bd234427.png)
+![image](https://user-images.githubusercontent.com/45925914/176820517-6da4c843-9564-479d-bc3f-fa05c30987a3.png)
 
 ## Technologies
 
