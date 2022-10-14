@@ -2,7 +2,7 @@
 
 An application that that allows you to search for free stock photos online, using an API (using js async-await)
 
-👉 [**Live demo**](http://phpstack-749317-2526873.cloudwaysapps.com/)
+👉 [**Live demo**](http://phpstack-856558-2958294.cloudwaysapps.com/)
 
 ![image](https://user-images.githubusercontent.com/45925914/176820517-6da4c843-9564-479d-bc3f-fa05c30987a3.png)
 
